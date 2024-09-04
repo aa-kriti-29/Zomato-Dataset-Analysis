@@ -17,3 +17,7 @@ The objective of this project is to perform exploratory data analysis on the Zom
 2. pandas: Used for data manipulation and analysis
 3. matplotlib: For creating visualisations
 4. seaborn: Used for creating graphics that are informative and attractive
+
+### Result
+![image](https://github.com/user-attachments/assets/625a14ca-6f79-4747-ae47-12396b92851c)
+
